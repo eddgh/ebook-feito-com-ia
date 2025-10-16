@@ -65,7 +65,7 @@ Gemini (bônus da imagem para divulgação)：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Meta.Ai
+- Imagens geradas via Meta.Ai / Gemini
 
 ## 📚 Materiais
 
