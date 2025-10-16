@@ -1,0 +1,3 @@
+Prompt para colocar 3 imagens diferentes cada uma na tela de um dispositivo (deve-se anexar as 3 imagens junto com o prompt no Gemini):
+
+3 leitores de ebook diferentes mas de mesmo tamanho, futuristas,  encostados um ao lado do outro, na vertical com suas telas viradas para a frente, sendo que o do meio está diretamente para a camera, o da equerda girado um pouco pra esquerda no eixo vertical e o da direita girado um pouco para a direita no eixo vertical também, o fundo da imagem é como de uma foto feita em estudio com fundo branco minimalista e os dispositivos estão refletindo na superfície, cada tela de ebook tem uma das imagens das referencias.
